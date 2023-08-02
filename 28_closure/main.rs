@@ -19,6 +19,6 @@ fn main(){
     println!("add(2, 4) = {x}");
 
     let v = 3;
-    let add2 = |x|{v + x};
+    let add2 = |x| {v + x};
     println!("add2(4) = {}", add2(4));
 }
