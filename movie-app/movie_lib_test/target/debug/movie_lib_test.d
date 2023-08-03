@@ -1,0 +1,1 @@
+/Users/zhouguowei/workspace/rust-example/movie-app/movie_lib_test/target/debug/movie_lib_test: /Users/zhouguowei/workspace/rust-example/movie-app/movie_lib/src/lib.rs /Users/zhouguowei/workspace/rust-example/movie-app/movie_lib/src/movies.rs /Users/zhouguowei/workspace/rust-example/movie-app/movie_lib_test/src/main.rs
